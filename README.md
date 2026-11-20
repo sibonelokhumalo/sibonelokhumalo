@@ -3,7 +3,7 @@
 Cloud and data engineer. I work with AWS, data pipelines, and analytics.
 
 ## What I work with
-- **Cloud:** AWS (Glue, EMR, Athena, MWAA, SageMaker)
+- **Cloud:** AWS (Glue, EMR, Athena, MWAA, DataBrew, Data Pipeline, SageMaker)
 - **Languages:** Python, SQL, Bash
 - **Data:** ETL pipelines, Apache Airflow, Spark, Parquet/Iceberg
 
@@ -12,4 +12,4 @@ Cloud and data engineer. I work with AWS, data pipelines, and analytics.
 Python pipeline that extracts messy sales CSV data, cleans and validates it, and loads it into SQLite. Includes unit tests and rejected-row reporting.
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINK
+- LinkedIn: https://www.linkedin.com/in/sibonelokh/
